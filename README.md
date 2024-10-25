@@ -1,6 +1,6 @@
 # LzuOssHPC 超算团队选拔题目
 
-兰州大学 LzuOssHPC 超算团队及 ASC 25 选拔题目。
+兰州大学 LzuOssHPC 超算团队及 ASC 25 选拔题目
 
 ## 题目
 
@@ -27,7 +27,7 @@
 
 ## 交流群
 
-![](./qrcode_qq.jpg)
+<img src="./qrcode_qq.jpg" alt="50" style="zoom:30%;" />
 
 ## Thanks
 
